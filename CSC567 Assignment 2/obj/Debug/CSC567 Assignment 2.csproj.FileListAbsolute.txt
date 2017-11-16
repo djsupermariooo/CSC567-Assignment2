@@ -1,0 +1,9 @@
+c:\users\mario\documents\visual studio 2017\Projects\CSC567 Assignment 2\CSC567 Assignment 2\bin\Debug\CSC567 Assignment 2.exe.config
+c:\users\mario\documents\visual studio 2017\Projects\CSC567 Assignment 2\CSC567 Assignment 2\bin\Debug\CSC567 Assignment 2.exe
+c:\users\mario\documents\visual studio 2017\Projects\CSC567 Assignment 2\CSC567 Assignment 2\bin\Debug\CSC567 Assignment 2.pdb
+c:\users\mario\documents\visual studio 2017\Projects\CSC567 Assignment 2\CSC567 Assignment 2\obj\Debug\CSC567 Assignment 2.csprojResolveAssemblyReference.cache
+c:\users\mario\documents\visual studio 2017\Projects\CSC567 Assignment 2\CSC567 Assignment 2\obj\Debug\CSC567_Assignment_2.Form1.resources
+c:\users\mario\documents\visual studio 2017\Projects\CSC567 Assignment 2\CSC567 Assignment 2\obj\Debug\CSC567_Assignment_2.Properties.Resources.resources
+c:\users\mario\documents\visual studio 2017\Projects\CSC567 Assignment 2\CSC567 Assignment 2\obj\Debug\CSC567 Assignment 2.csproj.GenerateResource.Cache
+c:\users\mario\documents\visual studio 2017\Projects\CSC567 Assignment 2\CSC567 Assignment 2\obj\Debug\CSC567 Assignment 2.exe
+c:\users\mario\documents\visual studio 2017\Projects\CSC567 Assignment 2\CSC567 Assignment 2\obj\Debug\CSC567 Assignment 2.pdb
